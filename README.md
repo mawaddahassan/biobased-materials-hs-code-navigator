@@ -27,7 +27,7 @@ So you can see not just what a material is, but where it sits in the processing 
 1. Download `Bio-Based Materials HS Code Database.xlsx`
 2. Go to the 'Navigator' sheet within the Excel Workbook, choose a tier from the drop-down menu in cell B4, then choose a category from the drop-down below it. The codes alongside their description will appear.
 3. Copy the codes for the material you're interested in.
-4. Group them in ITC Trade Map (https://www.trademap.org/en/) to analyze trade flows.
+4. Group them in [ITC Trade Map] (https://www.trademap.org/en/) to analyze trade flows.
 
 
 ## Sources
